@@ -58,13 +58,7 @@
         max-width: 490px;
         margin: 0 auto 40px;
     }
-    i.fa-solid.fa-circle.green-circle.circle {
-        margin-top: 9px;
-    }
-    i.fa-solid.fa-circle.red-circle.circle {
-        margin-top: 9px;
-    }
-
+  
     .pages-news-cards {
         padding: 10px;
     }
@@ -105,10 +99,7 @@
     .news-page-details p {
         font-size: 15px;
     }
-    .circle{
-        margin-top: 2px;
-    }
-
+  
     /* Cookies CSS Start */
     #cookie-bar button {
         float: left;
@@ -383,12 +374,7 @@
     section.home-page-news-cards {
         padding: 30px 0;
     }
-    i.fa-solid.fa-circle.green-circle.circle {
-        margin-top: 7px;
-    }
-    i.fa-solid.fa-circle.red-circle.circle {
-        margin-top: 7px;
-    }
+   
 
 
 
@@ -1164,13 +1150,7 @@
         height: 30px;
         font-size: 15px;
     }
-    i.fa-solid.fa-circle.green-circle.circle {
-        margin-top: 6px;
-    }
-    i.fa-solid.fa-circle.red-circle.circle {
-        margin-top: 7px;
-    }
-
+ 
     .pages-how-we-rate-cards h3 {
         font-size: 15px;
     }

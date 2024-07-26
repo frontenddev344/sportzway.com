@@ -1707,6 +1707,7 @@ width: 100%;
   min-width: 20px;
   align-items: center;
   justify-content: center;
+  margin-top: 6px;
 }
 
 .red-circle {
@@ -1716,12 +1717,12 @@ width: 100%;
 .green-circle {
   color: green;
 }
-i.fa-solid.fa-circle.green-circle.circle {
+/* i.fa-solid.fa-circle.green-circle.circle {
   margin-top: 9px;
 }
 i.fa-solid.fa-circle.red-circle.circle {
   margin-top: 9px;
-}
+} */
 section.after-news-cards-text {
   padding: 30px 0;
 }
