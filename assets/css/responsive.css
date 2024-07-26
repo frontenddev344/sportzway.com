@@ -99,6 +99,9 @@
     .news-page-details p {
         font-size: 15px;
     }
+    .circle{
+        margin-top: 2px;
+    }
 
     /* Cookies CSS Start */
     #cookie-bar button {
@@ -281,6 +284,12 @@
     .pages-contact-us-form-wrapper {
         padding: 30px 10px;
         max-width: 450px;
+    }
+    i.fa-solid.fa-circle.green-circle.circle {
+        margin-top: 6px;
+    }
+    i.fa-solid.fa-circle.red-circle.circle {
+        margin-top: 7px;
     }
 
     #contact textarea {
@@ -788,12 +797,13 @@
     .news-page-details p {
         font-size: 13px;
     }
+   
 
     .after-text-card-para p {
         font-size: 14px;
         font-weight: 500;
     }
-
+   
 
 
 
@@ -1146,6 +1156,12 @@
         width: 30px;
         height: 30px;
         font-size: 15px;
+    }
+    i.fa-solid.fa-circle.green-circle.circle {
+        margin-top: 6px;
+    }
+    i.fa-solid.fa-circle.red-circle.circle {
+        margin-top: 7px;
     }
 
     .pages-how-we-rate-cards h3 {
