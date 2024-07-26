@@ -1717,6 +1717,12 @@ width: 100%;
 .green-circle {
   color: green;
 }
+i.fa-solid.fa-circle.green-circle.circle {
+  margin-top: 9px;
+}
+i.fa-solid.fa-circle.red-circle.circle {
+  margin-top: 9px;
+}
 section.after-news-cards-text {
   padding: 30px 0;
 }

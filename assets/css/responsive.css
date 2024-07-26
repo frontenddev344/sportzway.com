@@ -58,6 +58,12 @@
         max-width: 490px;
         margin: 0 auto 40px;
     }
+    i.fa-solid.fa-circle.green-circle.circle {
+        margin-top: 9px;
+    }
+    i.fa-solid.fa-circle.red-circle.circle {
+        margin-top: 9px;
+    }
 
     .pages-news-cards {
         padding: 10px;
@@ -244,7 +250,6 @@
 
     .home-page-services-card {
         gap: 0px;
-
     }
 
     .home-page-services-card-info {
@@ -285,12 +290,7 @@
         padding: 30px 10px;
         max-width: 450px;
     }
-    i.fa-solid.fa-circle.green-circle.circle {
-        margin-top: 6px;
-    }
-    i.fa-solid.fa-circle.red-circle.circle {
-        margin-top: 7px;
-    }
+   
 
     #contact textarea {
         height: 70px;
@@ -383,6 +383,13 @@
     section.home-page-news-cards {
         padding: 30px 0;
     }
+    i.fa-solid.fa-circle.green-circle.circle {
+        margin-top: 7px;
+    }
+    i.fa-solid.fa-circle.red-circle.circle {
+        margin-top: 7px;
+    }
+
 
 
     section.home-page-news-cards {
