@@ -53,12 +53,18 @@
         max-width: 550px;
     }
 
+    .pages-cards-section h2 {
+        max-width: 650px;
+        max-width: 490px;
+        margin: 0 auto 40px;
+    }
+
     .pages-news-cards {
         padding: 10px;
     }
 
     section.pages-news-section {
-        padding: 25px 0;
+        padding: 35px 0 0;
     }
 
     .page-news-cards-text h4 {
@@ -89,25 +95,31 @@
     .about-us-card-content h3 {
         font-size: 21px;
     }
-       /* Cookies CSS Start */
-   #cookie-bar button {
-    float: left;
-    padding: 7px 15px;
-    font-size: 14px;
-    font-weight: 600;
-}
 
-#cookie-bar p {
-    width: 100%;
-    font-size: 14px;
-    line-height: 20px;
-}
+    .news-page-details p {
+        font-size: 15px;
+    }
 
-#contentcookie {
-    padding: 20px 15px;
-    width: 100%;
-}
-/* Cookies CSS End */
+    /* Cookies CSS Start */
+    #cookie-bar button {
+        float: left;
+        padding: 7px 15px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    #cookie-bar p {
+        width: 100%;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    #contentcookie {
+        padding: 20px 15px;
+        width: 100%;
+    }
+
+    /* Cookies CSS End */
 
 }
 
@@ -129,7 +141,8 @@
         justify-content: flex-start;
         align-items: center;
     }
-    .main-navbar-r2 ul li a{
+
+    .main-navbar-r2 ul li a {
         font-size: 20px;
     }
 
@@ -138,14 +151,15 @@
         z-index: 100;
         background: grey;
     }
+
     .main-navbar ul li a {
-            background: gray;
+        background: gray;
     }
 
     .main-navbar-r2 ul {
         flex-direction: column;
         z-index: 50;
-              background: grey;
+        background: grey;
     }
 
     .main-navbar-r2 ul li {
@@ -268,10 +282,11 @@
         padding: 30px 10px;
         max-width: 450px;
     }
+
     #contact textarea {
         height: 70px;
-          }
-          
+    }
+
     #contact button[type="submit"] {
         padding: 10px 20px;
     }
@@ -292,6 +307,14 @@
     /* Pages CSS Start */
     .pages-cards-image {
         height: 280px;
+    }
+
+    .pages-intro {
+        padding: 30px 0px;
+    }
+
+    .pages-cards-section h2 {
+        margin: 0px auto 30px;
     }
 
     .pages-banner-text h1 {
@@ -352,6 +375,7 @@
         padding: 30px 0;
     }
 
+
     section.home-page-news-cards {
         padding: 30px 0;
     }
@@ -397,6 +421,7 @@
         font-weight: 500;
         font-size: 14px;
     }
+
     .join-our-forum-wrapper {
         padding: 20px;
         max-width: 450px;
@@ -411,8 +436,9 @@
     .after-text-card-para p {
         font-size: 15px;
     }
+
     .pages-how-we-rate {
-        padding: 0px ;
+        padding: 0px;
     }
 
     .accordion_head {
@@ -426,7 +452,8 @@
     .footer-items h3 {
         font-size: 23px;
     }
-    .copyright p{
+
+    .copyright p {
         font-size: 14px;
     }
 
@@ -441,7 +468,7 @@
 
     .page-news-cards-text h4 {
         font-size: 16px;
-        max-width: 200px;
+        max-width: 180px;
     }
 
     .news-btn {
@@ -459,6 +486,7 @@
 
     h2.section-headings {
         font-size: 30px;
+        margin-bottom: 35px;
     }
 
     .join-our-forum-wrapper h2 {
@@ -497,6 +525,10 @@
     .news-page-card-image,
     .news-page-card-info {
         width: 100%;
+    }
+
+    .news-page-details p {
+        font-size: 14px;
     }
 
     .news-page-card-image {
@@ -556,6 +588,7 @@
     .terms-conditions-group h2 {
         font-size: 24px;
     }
+
     .terms-conditions-content {
         padding: 35px 0 20px;
     }
@@ -575,11 +608,11 @@
     /* Cookies CSS Start */
     #cookie-bar button {
         font-size: 13px;
-       }
+    }
 
- #cookie-bar p {
-         font-size: 13px;
-        }
+    #cookie-bar p {
+        font-size: 13px;
+    }
 
     /* Cookies CSS End */
 
@@ -661,8 +694,10 @@
         margin: 20px auto;
         width: 100%;
     }
+
     .join-our-forum-wrapper {
-        padding: 10px;}
+        padding: 10px;
+    }
 
     /* Pages CSS Start */
     .pages-cards-image {
@@ -703,7 +738,7 @@
         color: #000;
         font-weight: 600;
     }
- 
+
     .subpage-exp-content {
         font-size: 12px;
         padding: 0px 15px;
@@ -716,8 +751,9 @@
     .join-our-forum-wrapper p {
         font-size: 13px;
     }
+
     .home-signup-input-wrapper {
-              padding: 15px 20px;
+        padding: 15px 20px;
     }
 
     .top-recommendation-card-group p {
@@ -725,7 +761,7 @@
     }
 
     .pages-how-we-rate {
-        padding: 25px 0;
+        padding: 25px 0 5px;
     }
 
     .pages-how-we-rate-cards {
@@ -749,22 +785,26 @@
         font-size: 14px;
     }
 
+    .news-page-details p {
+        font-size: 13px;
+    }
+
     .after-text-card-para p {
         font-size: 14px;
         font-weight: 500;
     }
 
-   
+
 
 
     .home-signup-input {
         width: 85%;
         font-size: 13px;
-        padding: 6px 15px;
+        padding: 7px 15px;
     }
 
     .home-signup-submit-button {
-        padding: 6px 20px;
+        padding: 7px 20px;
         font-size: 15px;
         margin-left: 0px;
         border-radius: 5px;
@@ -815,8 +855,8 @@
 
     h2.section-headings {
         font-size: 24px;
+        max-width: 290px;
     }
-
 
     .accordion_head {
         font-size: 13px;
@@ -846,18 +886,21 @@
 
     .page-news-cards-text h4 {
         font-size: 15px;
+        max-width: 170px;
     }
 
     .news-btn {
         font-size: 15px;
         font-weight: 500;
     }
-       .pages-news-cards h3 {
+
+    .pages-news-cards h3 {
         font-size: 16px;
         max-width: 300px;
-        margin: 20px auto 20px;
+        margin: 15px auto;
     }
-    .copyright p{
+
+    .copyright p {
         font-size: 13px;
     }
 
@@ -932,10 +975,11 @@
 }
 
 /* Terms Conditions CSS Start */
-  /* Cookies CSS Start */
-  #cookie-bar p {
+/* Cookies CSS Start */
+#cookie-bar p {
     font-size: 12px;
 }
+
 /* Cookies CSS End */
 
 @media screen and (max-width: 480px) {
@@ -989,16 +1033,20 @@
         font-size: 13px;
 
     }
+
     .home-signup-input-wrapper {
         padding: 15px 0px;
     }
-    .copyright p{
+
+    .copyright p {
         font-size: 12px;
     }
+
     /* Pages CSS Start */
     .pages-cards-image {
         height: 190px;
     }
+
     .pages-card-content-r2 ul li {
         font-size: 12px;
     }
